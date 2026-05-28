@@ -1,0 +1,24 @@
+{
+  "name": "@avibhardwaj/randomnumbergenerator",
+  "version": "1.0.0",
+  "description": "it will generate random number ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avibhardwaj243/randomNumberGeneratorNpmPackage.git"
+  },
+  "keywords": [
+    "random",
+    "number",
+    "generator"
+  ],
+  "author": "Avi Bhardwaj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avibhardwaj243/randomNumberGeneratorNpmPackage/issues"
+  },
+  "homepage": "https://github.com/avibhardwaj243/randomNumberGeneratorNpmPackage#readme"
+}
